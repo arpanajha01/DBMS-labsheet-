@@ -1,0 +1,2 @@
+# DBMS-labsheet-
+SQL queries
